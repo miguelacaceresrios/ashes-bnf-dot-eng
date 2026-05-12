@@ -4,8 +4,8 @@
     <td>
       <!-- GIF FLOTANTE A LA IZQUIERDA (con tamaño ajustado) -->
       <img align="left" 
-           src="https://media.tenor.com/bwjqO.gif" 
-           alt="Bonfire-gif" 
+           src="https://media1.tenor.com/m/drxH1lO9cfEAAAAC/dark-souls-bonfire.gif" 
+           alt="Dark Souls Bonfire GIF" 
            width="200" 
            height="150" 
            hspace="15" 
@@ -25,14 +25,11 @@
         y ejecuta el script <code>install.sh</code> – pero antes, leed las runas del 
         <em>README original</em>. Que la estabilidad del sistema os acompañe. 🐧
       </p>
-
       <!-- Limpiar flotado -->
       <br clear="all">
-
       <!-- Footer delgado -->
       <hr width="100%" size="2" noshade color="#8B5A2B">
       <center><font size="1" color="#8B5A2B">~ dotfiles ~</font></center>
-
     </td>
   </tr>
 </table>
