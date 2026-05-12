@@ -1,17 +1,16 @@
-<!-- TABLA PRINCIPAL (efecto pergamino con colores básicos) -->
+<!-- TABLA PRINCIPAL (sin CSS, solo HTML clásico) -->
 <table border="1" cellpadding="15" cellspacing="0" bgcolor="#FEF7E0" width="100%">
   <tr>
     <td>
-      <!-- IMAGEN FLOTANTE A LA IZQUIERDA (placeholder confiable) -->
+      <!-- GIF FLOTANTE A LA IZQUIERDA (con tamaño ajustado) -->
       <img align="left" 
-           src="https://picsum.photos/id/104/180/120" 
-           alt="Unixporn placeholder" 
-           width="180" 
-           height="120" 
+           src="https://media.tenor.com/bwjqO.gif" 
+           alt="Bonfire-gif" 
+           width="200" 
+           height="150" 
            hspace="15" 
            vspace="5"
            border="1">
-      <!-- TEXTO QUE FLUYE ALREDEDOR Y LUEGO DEBAJO -->
       <p>
         <strong>⚔️ Dotfiles</strong> – He aquí la colección de mis configuraciones, forjadas en los oscuros senderos de UNIX. 
         Cada punto, cada línea, cada espacio ha sido tallado con la paciencia de un monje scriptorium.
@@ -26,11 +25,12 @@
         y ejecuta el script <code>install.sh</code> – pero antes, leed las runas del 
         <em>README original</em>. Que la estabilidad del sistema os acompañe. 🐧
       </p>
-      <!-- LIMPIAR EL FLOTADO PARA QUE EL FOOTER NO QUEDE AL LADO -->
+
+      <!-- Limpiar flotado -->
       <br clear="all">
-      <!-- FOOTER MUY DELGADO (hr con atributos clásicos) -->
+
+      <!-- Footer delgado -->
       <hr width="100%" size="2" noshade color="#8B5A2B">
-      <!-- OPCIONAL: texto pequeñito centrado (sin CSS, con tablita o center) -->
       <center><font size="1" color="#8B5A2B">~ dotfiles ~</font></center>
 
     </td>
